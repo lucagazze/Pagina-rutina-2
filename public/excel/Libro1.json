@@ -1,0 +1,101 @@
+[
+  {
+    "Fecha": "11 de enero de 2024",
+    "titulo": "Programa Sheiko + Hojas de cálculo",
+    "tags": [
+      "peaking",
+      "fuerza"
+    ],
+    "categoria": "peaking fuerza",
+    "nivel": "principiante intermedio avanzado",
+    "dias": "3 4 5",
+    "imagen": "https://d3h9ln6psucegz.cloudfront.net/wp-content/uploads/2008/12/Sheiko-Shakes-Up-Powerlifting.jpg",
+    "href": "/public/articulos/1.html"
+  },
+  {
+    "Fecha": "11 de enero de 2024",
+    "titulo": "Arnold Schwarzenegger rutina de entrenamiento en casa + Hojas de cálculo",
+    "tags": [
+      "calistenia"
+    ],
+    "categoria": "calistenia",
+    "nivel": "principiante intermedio avanzado",
+    "dias": "3 4",
+    "imagen": "https://i.pinimg.com/736x/3a/24/b0/3a24b06b26e48aa8fa76b5065eb7d5b7.jpg",
+    "href": "/public/articulos/2.html"
+  },
+  {
+    "Fecha": "11 de enero de 2024",
+    "titulo": "Programa de Culturismo para Principiantes  (4 Días) + Hojas de Cálculo ",
+    "tags": [
+      "hipertrofia"
+    ],
+    "categoria": "hipertrofia",
+    "nivel": "principiante",
+    "dias": "4",
+    "imagen": "https://qph.cf2.quoracdn.net/main-qimg-6b8302b6a72e843a2d521e7458d441da",
+    "href": "/public/articulos/3.html"
+  },
+  {
+    "Fecha": "11 de enero de 2024",
+    "titulo": "Programa de 6 Días PPL v3.04 de Metallicadpa + Hojas de cálculo",
+    "tags": [
+      "hipertrofia",
+      "fuerza"
+    ],
+    "categoria": "hipertrofia fuerza",
+    "nivel": "principiante intermedio",
+    "dias": "6",
+    "imagen": "https://cdn.shopify.com/s/files/1/0100/2677/8681/files/push_pull_legs_routine_image.jpg?v=1687748722",
+    "href": "/public/articulos/4.html"
+  },
+  {
+    "Fecha": "11 de enero de 2024",
+    "titulo": "5/3/1 para Principiantes + Hoja de cálculo y Consejos",
+    "tags": [
+      "fuerza"
+    ],
+    "categoria": "fuerza",
+    "nivel": "principiante",
+    "dias": "3",
+    "imagen": "https://gymtalk.com/wp-content/uploads/jimwendlerdead.jpg",
+    "href": "/public/articulos/5.html"
+  },
+  {
+    "Fecha": "11 de enero de 2024",
+    "titulo": "Rutina de Ejercicios PHAT + Hoja de Cálculo del Programa",
+    "tags": [
+      "hipertrofia"
+    ],
+    "categoria": "hipertrofia",
+    "nivel": "intermedio avanzado",
+    "dias": "5",
+    "imagen": "https://www.gimnasiogym.net/wp-content/uploads/2019/12/la-rutina-phat.jpg",
+    "href": "/public/articulos/6.html"
+  },
+  {
+    "Fecha": "11 de enero de 2024",
+    "titulo": "Programa Híbrido Candito 6 Semanas + Press de Banca Avanzado",
+    "tags": [
+      "peaking",
+      "fuerza"
+    ],
+    "categoria": "peaking fuerza",
+    "nivel": "intermedio avanzado",
+    "dias": "4 5",
+    "imagen": "https://i.ytimg.com/vi/2UAYe1pMzJg/maxresdefault.jpg",
+    "href": "/public/articulos/7.html"
+  },
+  {
+    "Fecha": "11 de enero de 2024",
+    "titulo": "PHUL Rutina de Entrenamiento Consejos + Hoja de Cálculo del Programa",
+    "tags": [
+      "hipertrofia",
+      "fuerza"
+    ],
+    "categoria": "hipertrofia fuerza",
+    "nivel": "principiante intermedio avanzado",
+    "dias": "4 6",
+    "imagen": "https://hips.hearstapps.com/hmg-prod/images/biceps-triceps-1554369473.jpg?crop=1xw:0.5012886597938144xh;center,top&resize=1200:*",
+    "href": "/public/articulos/8.html"
+  }]

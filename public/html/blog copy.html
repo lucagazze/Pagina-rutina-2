@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Diseño web tipo blog - para práctica</title>
+
+    <script src="https://kit.fontawesome.com/41bcea2ae3.js" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.17.5/xlsx.full.min.js"></script>
+
+    <link rel="stylesheet" href="../css/principal.css">
+    <link rel="stylesheet" href="../css/blog copy.css">
+
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+</head>
+<body>
+
+    <!--Header - menu-->
+    <header>
+
+        <div class="header-content">
+
+            <div class="logo">
+                <a href="../html/inicio.html"><h1>Fit<b>Club</b></h1></a>
+            </div>
+
+            <div class="menu" id="show-menu">
+
+                <nav>
+                    <ul>
+                        <li><a href="../html/inicio.html"><i class="fas fa-home"></i> Inicio</a></li>
+                        <li class="menu-selected"><a class="text-menu-selected" href="../html/blog copy.html"><i class="fas fa-file-alt"></i>Rutinas</a></li>
+                    </ul>
+                </nav>
+
+            </div>
+
+            <div id="ctn-icon-search">
+                <i class="fas fa-search" id="icon-search"></i>
+            </div>
+
+        </div>
+
+        <div id="icon-menu">
+            <i class="fas fa-bars"></i>
+        </div>
+
+    </header>
+
+    <div id="ctn-bars-search">
+        <input type="text" id="inputSearch" placeholder="¿Qué deseas buscar?" list="searchOptions">
+<datalist id="searchOptions"></datalist>
+<button id="searchButton">Buscar</button>
+
+    </div>
+    
+
+    <div id="cover-ctn-search"></div>
+
+    <!--Portada-->
+    <div class="container-all" id="move-content">
+        <div class="blog-container-cover">
+            <div class="container-info-cover">
+                <h1>Encuentra tu rutina</h1>
+                <p></p>
+            </div>
+        </div>
+
+        <div class="container-post">
+            <div id="filters">
+
+                <label for="programType">Tipo de Programa:</label>
+                <select id="programType">
+                    <option value="all">Todos</option>
+                    <option value="fuerza">Fuerza</option>
+                    <option value="hipertrofia">Hipertrofia</option>
+                    <option value="calistenia">Calistenia</option>
+                    <option value="peaking">Peaking</option>
+                    <!-- Agrega más opciones según tus necesidades -->
+                </select>
+
+                <label for="experienceLevel">Experiencia:</label>
+                <select id="experienceLevel">
+                    <option value="all">Todos</option>
+                    <option value="principiante">principiante</option>
+                    <option value="intermedio">intermedio</option>
+                    <option value="avanzado">avanzado</option>
+
+
+                    <!-- Agrega más opciones según tus necesidades -->
+                </select>
+
+                <label for="daysPerWeek">Dias por semana:</label>
+                <select id="daysPerWeek">
+                    <option value="all">Todos</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                    <option value="6">6</option>
+                </select>
+
+            </div>
+
+
+            <div id="results">
+                <!-- Aquí se mostrarán los resultados filtrados -->
+            </div>
+        </div>
+
+        <!--Boton de ir hacia arriba-->
+        <div id="button-up">
+            <i class="fas fa-chevron-up"></i>
+        </div>
+
+        <div class="container-footer">
+            <footer>
+                <div class="logo">
+                    <a href="../html/inicio.html"><h1>Fit<b>Club</b></h1></a>
+                </div>
+
+                <hr>
+                <h4>© 2024 - Todos los Derechos Reservados</h4>
+            </footer>
+        </div>
+    </div>
+
+    <script src="../js/blog copy.js"></script>
+    <script src="../js/buscador.js"></script>
+    <script src="../js/tarjetas.js"></script>
+   
+</body>
+</html>
